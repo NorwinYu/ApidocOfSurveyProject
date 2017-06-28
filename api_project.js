@@ -1,0 +1,1 @@
+define({  "name": "apidoc-survey",  "version": "0.0.1",  "description": "apiDoc survey project",  "title": "apiDoc survey project",  "url": "http://127.0.0.1",  "sampleUrl": false,  "defaultVersion": "0.0.0",  "apidoc": "0.3.0",  "generator": {    "name": "apidoc",    "time": "2017-06-28T15:46:16.591Z",    "url": "http://apidocjs.com",    "version": "0.17.6"  }});
